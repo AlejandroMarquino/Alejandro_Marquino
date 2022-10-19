@@ -1,19 +1,19 @@
 # Hi! I'm Alejandro Marquino :grinning: :grinning: 
 =============================
 
-Junior Developer for 1 year. After 15 years working in the logistics :articulated_lorry: and imports :ship: sector providing solutions to my clients for their projects, I decided to reconvert myself as a Software Developer :computer:. 
+Junior Developer. After 15 years working in logistics :articulated_lorry: and imports :ship: sector providing solutions to my clients for their projects, I decided to reconvert myself as a Software Developer :computer:. 
 
 Passionate about technology and business, I have been studying and preparing myself in various Bootcamps and also developing my own projects. Some of the technologies that I love are Python, JavaScript, and HTML5 + CSS.
 
-But that is not all! :tada: I love communication and the creation of video and audio content :movie_camera: a passion that I have developed since 2014 producing, directing and presenting various podcasts :microphone: about video games and entertainment! Do not leave my profile without checking them!
+But that is not all! :tada: I love communication and the creation of video and audio content :movie_camera: a passion that I have developed since 2014 producing, directing and presenting various podcasts :microphone: about video games and entertainment! Do not leave my profile without checking them out!!
 
 
-I am currently collaborate on the {awesome} project [InterviewdWith](https://www.interviewedwith.com/) !! 
+I am currently collaborating on the {awesome} project [InterviewdWith](https://www.interviewedwith.com/) !! 
 
 * :earth_africa: I'm Based in Málaga 
 * :incoming_envelope: You can contact me at [alejandromarquino@gmail.com](mailto:alejandromarquino@gmail.com)
 *  🧠  I'm interested on learning data science, Next.js, Ruby, React. 
-*  :confetti_ball: In my free time I love play video games :video_game: , burgers :hamburger: and my beatifull sharpei :dog2:
+*  :confetti_ball: In my free time I love playing videogames :video_game: , burgers :hamburger: and my beatifull sharpei :dog2:
 
 I'm student at [MEDAC](https://medac.es/grado-superior/dam-grado-superior-desarrollo-de-aplicaciones-multiplataforma) and [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
 
