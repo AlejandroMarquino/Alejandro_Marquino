@@ -15,7 +15,7 @@ Currently I'm student at [MEDAC](https://medac.es/grado-superior/dam-grado-super
 *  :confetti_ball: In my free time I love play video games :video_game: , burgers :hamburger: and my beatifull sharpei :dog2:
 
 ## Languages & frameworks:
-[![Angular]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white))]()
+[![Angular2](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)]()
@@ -34,13 +34,13 @@ Currently I'm student at [MEDAC](https://medac.es/grado-superior/dam-grado-super
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandromarquinofernandez/)
 
 ## Lisent me:
-[![PulsaStart](https://cuonda.com/pulsa-start)
+[PulsaStart](https://cuonda.com/pulsa-start)
 
-[![DLC](https://emilcar.fm/podcast/dlc)
+[DLC](https://emilcar.fm/podcast/dlc)
 
-[![Cliffhanger](https://cuonda.com/cliffhanger)
+[Cliffhanger](https://cuonda.com/cliffhanger)
 
-[![DEKA](https://podcasts.apple.com/es/podcast/deka/id1607655925)
+[DEKA](https://podcasts.apple.com/es/podcast/deka/id1607655925)
 
 </br>
 
