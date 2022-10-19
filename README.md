@@ -7,12 +7,15 @@ Passionate about technology and business, I have been studying and preparing mys
 
 But that is not all! :tada: I love communication and the creation of video and audio content :movie_camera: a passion that I have developed since 2014 producing, directing and presenting various podcasts :microphone: about video games and entertainment! Do not leave my profile without checking them!
 
-Currently I'm student at [MEDAC](https://medac.es/grado-superior/dam-grado-superior-desarrollo-de-aplicaciones-multiplataforma) [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
+
+I am currently collaborate on the {awesome} project [InterviewdWith](https://www.interviewedwith.com/) !! 
 
 * :earth_africa: I'm Based in Málaga 
 * :incoming_envelope: You can contact me at [alejandromarquino@gmail.com](mailto:alejandromarquino@gmail.com)
 *  🧠  I'm interested on learning data science, Next.js, Ruby, React. 
 *  :confetti_ball: In my free time I love play video games :video_game: , burgers :hamburger: and my beatifull sharpei :dog2:
+
+I'm student at [MEDAC](https://medac.es/grado-superior/dam-grado-superior-desarrollo-de-aplicaciones-multiplataforma) [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
 
 ## Languages & frameworks:
 [![Angular2](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
