@@ -15,8 +15,6 @@ I am currently collaborating on the {awesome} project [InterviewdWith](https://w
 *  🧠  I'm interested on learning data science, Next.js, Ruby, React. 
 *  :confetti_ball: In my free time I love playing videogames :video_game: , burgers :hamburger: and my beatifull sharpei :dog2:
 
-I'm student at [MEDAC](https://medac.es/grado-superior/dam-grado-superior-desarrollo-de-aplicaciones-multiplataforma) and [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
-
 ## Languages & frameworks:
 [![Angular2](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
