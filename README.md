@@ -1,7 +1,7 @@
 # Hi! I'm Alejandro Marquino :grinning: :grinning: 
 =============================
 
-Junior Developer. After 15 years working in logistics :articulated_lorry: and imports :ship: sector providing solutions to my clients for their projects, I decided to reconvert myself as a Software Developer :computer:. 
+QA Engineer and developer. After 15 years working in logistics :articulated_lorry: and imports :ship: sector providing solutions to my clients for their projects, I decided to reconvert myself as a Software Developer :computer:. 
 
 Passionate about technology and business, I have been studying and preparing myself in various Bootcamps and also developing my own projects. Some of the technologies that I love are Python, JavaScript, and HTML5 + CSS.
 
