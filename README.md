@@ -34,7 +34,7 @@ I am currently collaborating on the {awesome} project [InterviewdWith](https://w
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AlejandroMarquino)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandromarquinofernandez/)
 
-## Lisent me:
+## Listen me:
 [PulsaStart](https://cuonda.com/pulsa-start)
 
 [DLC](https://emilcar.fm/podcast/dlc)
